@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|e:\\fpt_semesters\\c#_api\\repository_real_project\\repository_real_project\\repository_real_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78088419-ADFA-46F6-B59E-8A9988EEFE0C}|Repository_Real_Project\\Repository_Real_Project.csproj|solutionrelative:repository_real_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:39:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\IProductRepository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:37:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\UnitOfWork.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:18:14.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:16:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:49:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\Repository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\Repository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:36:42.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Repository\\IRepository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:34:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Models\\Product.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Models\\Product.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:31:15.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:29:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\Program.cs",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\Program.cs",
+              "RelativeToolTip": "Repository_Real_Project\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:26:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Repository_Real_Project\\appsettings.json",
+              "ToolTip": "E:\\FPT_Semesters\\C#_API\\Repository_Real_Project\\Repository_Real_Project\\Repository_Real_Project\\appsettings.json",
+              "RelativeToolTip": "Repository_Real_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T15:26:19.279Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1052,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
